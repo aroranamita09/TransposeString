@@ -10,7 +10,7 @@ public class ReverseWordsTest {
     ReverseWords obj;
     @Before
     public void setUp() throws Exception {
-        ReverseWords obj = new ReverseWords();
+         obj = new ReverseWords();
     }
 
     @After
